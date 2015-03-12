@@ -1,4 +1,2 @@
-# dayOfPi
-Un proyecto de arte por el día de pi
-
-cambio: 09/03/2014
+# dayOfPi - Music & digits runner
+runs on each digit of the first 6508 digits of pi, one digit every 1200ms... executes a keyboard key to make music based on tony-b machine... Also it has a 3D animation of pi.
